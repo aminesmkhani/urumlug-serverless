@@ -56,7 +56,7 @@
 | `translateService` | `string` | **Required**. Your Bind key |
 
 
-### vWorker
+### vWorker (Depricated)
 
 
 | KV Namespace | Type     | Description                |
